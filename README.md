@@ -93,30 +93,10 @@ Time series were smoothed using moving averages and normalized by total word cou
 ![Crisis Word Rate](https://raw.githubusercontent.com/Pigeon-Effect/UNGD-linguistic-patterns/refs/heads/main/results/time%20series%20analysis/t2_crisis_word_rate_1946_2022.svg)
 ![Number Rate](https://raw.githubusercontent.com/Pigeon-Effect/UNGD-linguistic-patterns/refs/heads/main/results/time%20series%20analysis/t3_number_rate_1946_2022.svg)
 
----
-
-## **Repository Structure**
-
-```bash
-├── data/                    # Preprocessed speech transcripts
-├── notebooks/              # Jupyter notebooks for analysis
-├── results/                # Time series plots and exported figures
-├── src/                    # Scripts for preprocessing and feature extraction
-├── requirements.txt        # Python dependencies
-└── README.md               # This file
-```
 
 ---
 
-## **How to Cite**
 
-If you use this repository or the results, please cite:
-
-**Julius Pfundstein & Jonas Krenzer**,
-*Mapping International Alliances: A Study of UNGA Voting Behavior*,
-Leipzig University, 2024.
-
----
 
 ## **License**
 
