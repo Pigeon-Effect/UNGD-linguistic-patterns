@@ -94,8 +94,3 @@ Time series were smoothed using moving averages and normalized by total word cou
 
 ---
 
-
-
-## **License**
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
