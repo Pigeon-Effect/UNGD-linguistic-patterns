@@ -1,5 +1,3 @@
-Here is a **copy-paste ready** `README.md` for your GitHub repository. It follows scientific conventions, includes structured headings, and integrates your result images at the end.
-
 ---
 
 # **UNGA Linguistic Patterns (1946–2022)**
